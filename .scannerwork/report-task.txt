@@ -1,0 +1,6 @@
+projectKey=CustomerManagementSystem
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=CustomerManagementSystem
+ceTaskId=AXeA_P8J7xnv12aQGN05
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXeA_P8J7xnv12aQGN05
